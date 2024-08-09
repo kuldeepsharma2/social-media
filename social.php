@@ -7,6 +7,7 @@
     <title>Social Media</title>
     <link rel="icon" type="image/png" width="50px" href="./images/favicon.png">
     <link rel="stylesheet" href="./css/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/44d04ad0c5.js" crossorigin="anonymous"></script>
     <meta name="author" content="Shivam" />
 </head>

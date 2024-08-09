@@ -372,7 +372,7 @@
 
 
     <div class="footer">
-        <p>Copyright 2021 - Shivam For More Detail Follow Me</p>
+        <p>&copy; 2024 Social Media. All Rights Reserved. Managed By Shivam.</p>
     </div>
 
 
